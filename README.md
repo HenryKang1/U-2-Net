@@ -1,3 +1,8 @@
+
+This branch for the google colab test only purpose.
+If you want to run this fancy work try it.
+https://colab.research.google.com/drive/1GKML-vYymlYaiAOv1NzSB-UkG8gUfqbr
+
 # U^2-Net (U square net)
 
 The code for our newly accepted paper **U^2-Net (U square net)** in Pattern Recognition 2020:
